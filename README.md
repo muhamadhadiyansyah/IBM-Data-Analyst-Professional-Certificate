@@ -78,8 +78,13 @@ Throughout the program, you’ll complete hands-on projects and labs and gain a 
 
 ## What is a Professional Certificate?
 - Build the Skills to Get Job Ready
+
 Whether you’re looking to start a new career, or change your current one, Professional Certificates on Coursera help you become job ready. Learn at your own pace, whenever and wherever it’s most convenient for you. Enroll today and explore a new career path with a 7 day free trial. You can pause your learning or end your subscription at any time.
+
 - Hands-On Projects
+
 Apply your skills with hands-on projects and build a portfolio that showcases your job readiness to potential employers. You'll need to successfully finish the project(s) to earn your Certificate.
+
 - Earn a Career Credential
+
 When you complete all of the courses in the program, you'll earn a Certificate to share with your professional network as well as unlock access to career support resources to help you kickstart your new career. Many Professional Certificates have hiring partners that recognize the Professional Certificate credential and others can help prepare you for a certification exam. You can find more information on individual Professional Certificate pages where it applies.
