@@ -64,17 +64,17 @@ Throughout the program, you’ll complete hands-on projects and labs and gain a 
 
 ## Specialization Overview
 
-| No     | Course                                                                                                                |
-|:------:|-----------------------------------------------------------------------------------------------------------------------|
-| 1.     | [Introduction to Data Analytics](Introduction to Data Analytics)                                                      |
-| 2.     | [Excel Basics for Data Analysis](Excel Basics for Data Analysis)                                                      |
-| 3.     | [Data Visualization and Dashboards with Excel and Cognos](Data Visualization and Dashboards with Excel and Cognos)    |
-| 4.     | [Python for Data Science, AI & Development](Python for Data Science, AI & Development)                                |
-| 5.     | [Python Project for Data Science](Python Project for Data Science)                                                    |
-| 6.     | [Databases and SQL for Data Science with Python](Databases and SQL for Data Science with Python)                      |
-| 7.     | [Data Analysis with Python](Data Analysis with Python)                                                                |
-| 8.     | [Data Visualization with Python](DataVisualization with Python)                                                       |
-| 9.     | [IBM Data Analyst Capstone Project](IBM Data Analyst Capstone Project)                                                |
+| No     | Course                                                      |
+|:------:|-------------------------------------------------------------|
+| 1.     | Introduction to Data Analytics                              |
+| 2.     | Excel Basics for Data Analysis                              |
+| 3.     | Data Visualization and Dashboards with Excel and Cognos     |
+| 4.     | Python for Data Science, AI & Development                   |
+| 5.     | Python Project for Data Science                             |
+| 6.     | Databases and SQL for Data Science with Python              |
+| 7.     | Data Analysis with Python                                   |
+| 8.     | Data Visualization with Python                              |
+| 9.     | IBM Data Analyst Capstone Project                           |
 
 ## What is a Professional Certificate?
 - Build the Skills to Get Job Ready
